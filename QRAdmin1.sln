@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QRAdmin1", "QRAdmin1\QRAdmin1.csproj", "{1EF4AEBB-2149-46C8-8C7C-0D7EA89BAB90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EF4AEBB-2149-46C8-8C7C-0D7EA89BAB90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EF4AEBB-2149-46C8-8C7C-0D7EA89BAB90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EF4AEBB-2149-46C8-8C7C-0D7EA89BAB90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EF4AEBB-2149-46C8-8C7C-0D7EA89BAB90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F525C691-E0EE-4231-B9D7-0D23E17BB0EC}
+	EndGlobalSection
+EndGlobal
